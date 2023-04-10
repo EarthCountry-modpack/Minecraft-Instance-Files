@@ -1,0 +1,91 @@
+
+#Chemical Liquifier
+[liquifier]
+	#Default: 16000 (16 buckets)
+	#Range: > 1
+	fluidCapacity = 32000
+	#Default: 50 FE
+	#Range: > 0
+	energyPerTick = 16000
+	#Default: 100 ticks
+	#Range: > 1
+	ticksPerOperation = 64
+	#Default: 100000 (100k FE)
+	#Range: > 0
+	energyCapacity = 160000
+
+#Fusion
+[fusion]
+	#Default: 300 FE
+	#Range: > 0
+	energyPerTick = 64000
+	#Default: 50 ticks
+	#Range: > 1
+	ticksPerOperation = 45
+	#Default: 100000 (100k FE)
+	#Range: > 0
+	energyCapacity = 320000
+
+#Chemical Compactor
+[compactor]
+	#Default: 50 FE
+	#Range: > 0
+	energyPerTick = 16000
+	#Default: 50 ticks
+	#Range: > 1
+	ticksPerOperation = 45
+	#Default: 100000 (100k FE)
+	#Range: > 0
+	energyCapacity = 160000
+
+#Fission
+[fission]
+	#Default: 300 FE
+	#Range: > 0
+	energyPerTick = 64000
+	#Default: 50 ticks
+	#Range: > 1
+	ticksPerOperation = 45
+	#Default: 100000 (100k FE)
+	#Range: > 0
+	energyCapacity = 320000
+
+#Chemical Combiner
+[combiner]
+	#Default: 200 FE
+	#Range: > 0
+	energyPerTick = 32000
+	#Default: 50 ticks
+	#Range: > 1
+	ticksPerOperation = 45
+	#Default: 100000 (100k FE)
+	#Range: > 0
+	energyCapacity = 160000
+
+#Chemical Dissolver
+[dissolver]
+	#Default: 100 FE
+	#Range: > 0
+	energyPerTick = 24000
+	#Default: 50 ticks
+	#Range: > 1
+	ticksPerOperation = 45
+	#Default: 100000 (100k FE)
+	#Range: > 0
+	energyCapacity = 160000
+
+#Chemical Atomizer
+[atomizer]
+	#Default: 16000 (16 buckets)
+	#Range: > 1
+	fluidCapacity = 32000
+	#Default: 50 FE
+	#Range: > 0
+	energyPerTick = 16000
+	#Default: 50 ticks
+	#Range: > 1
+	ticksPerOperation = 45
+	#Default: 100000 (100k FE)
+	#Range: > 0
+	energyCapacity = 160000
+

@@ -1,0 +1,264 @@
+Advanced Netherite		1.14.7
+AE2 Things			1.0.5
+AE2WTLib			11.6.3
+AEInfinityBooster		1.18.2-1.1.0+9
+AI-Improvements			0.5.2
+Alchemistry			1.18.2-2.2.1
+AlchemyLib			1.18.2-1.0.20
+Alcocraft: Beer & Stuff		1.0.0
+Alex's Delight			1.3.3
+Alex's Mobs			1.18.6
+Amplified Nether		1.1
+AppleSkin			2.4.1+mc1.18.2
+Applied Cooking			1.0.3
+Applied Energistics 2 		11.7.0
+Applied Mekanistics		1.2.1
+Architectury			4.11.89
+Auto Ore Dictionary Converter		18.0.2
+Auto Smithing Table			1.2.4
+Balm					3..2.6
+Better Biom Blend			1.3.5-forge
+Better Brighness Slider			1.0
+Better Compatibility Checker		1.1.21-build.48+mc1.18.2
+Better Mods Button			3.2.3
+Better Ping Display			1.1
+BetterF3				3.0.0
+Betterfpsdist mod			1.18.2-1.5
+BetterThanMending			1.8.1
+Boat Item View				0.0.3
+Bookshelf				13.2.53
+BotanyPots				8.1.28
+BotanyTrees				4.0.6
+BucketLib				1.18.2-0.5.4.1
+Caelus API				1.18.1-3.0.0.2
+Catalogue				1.6.2
+CC: Tweaked				1.101.2
+Celestial Config			1.0.0
+Ceramic Bucket				1.18.2-3.0.5.0
+Ceramic Shears				1.18.2-1.6.1.1
+ChemLib					1.18.2-2.0.16
+Chikens					1.0.30
+ChoiceTheorem's Overhauled Villages	2.9.3
+Citadel					1.11.3
+clickadv mod				1.18.2-2.5
+Climb Ladders Fast			2.2.3-1.18
+Cloth Config v4 API			6.4.90
+Clumps					8.0.0+17
+Cobble For Days 			1.5.1
+CoFH Core				9.2.1
+Collective				6.53
+Compact Crafting			2.0.0
+Compact Machines 4			4.5.0
+Configured				2.0.1
+ConnectedTexturesMod			1.18.2-1.1.5+5
+Connectivity Mod			1.18.2-3.2
+Construction Wand			1.18.2-2.9
+Controlling				9.0+22
+CookingForBlockheads			12.2.0
+Corpse					1.18.2-1.0.2
+CraftPresence				2.0.0-rc.1
+CraftTweaker				9.1.207
+Create					0.5.0.i
+Create Confectionery			1.0.8
+Create Craft & Additions		1.18.2-20230315b
+Create Deco				1.2.12-1.18.2
+Create Enchantment Industry		1.1.15
+Create Experienced			0.1.2
+Create: Broken Bad			1.18.2-1.6
+Create: Connected Block Textures	0.5.4
+Create: Crystal Clear			1.18.2-0.1.3e
+create: things and misc			1.0.0
+CreateTweaker				2.0.0.18
+Cucumber Library			5.1.3
+Curios API				1.18.2-5.0.9.0
+Curious Armor Stands			1.18.1-4.0.0
+Curious Elytra				1.18.1-5.0.1.0
+Cyclops Core				1.17.1
+DarkModeEverywhere			1.18.1-1.0.2
+Debugify				1.11.0
+Default Server Properties		1.0.1-build.10+mc1.18.2
+Durability Tooltip			1.1.4
+Easy Shulker Boxes			3.1.1
+Eccentric Tome				1.18.2-1.9.1
+Edible Nether Wart			1.0.1
+Elevator Mod				1.18.2-1.8.4
+EnchantmentDescription			10.0.12
+EnderChests				1.9.9
+EnderTanks				1.11.11
+EntityCulling				1.6.1
+Ex Nihilo: Sequentia			1.18.2-20221113-044349
+ExCompressum				5.0.3
+Explorer's Compass			1.18.2-1.3.0-forge
+Extended Crafting			4.1.2
+Extended Creative Inventory		2.1
+Extreme Sound Muffler			3.31_forge-1.18.2
+Falling Leaves				1.3.2
+Farmer's Delight			1.18.2-1.2.0
+Farmer's Respite			1.18.1-1.3.0
+Fast Suite				3.0.2
+Fast Workbench				6.1.1
+FastFurnace				6.0.3
+FastLeafDecay				28
+Fastload				2.6.9+1.18.2
+Ferrite Core				4.2.2
+Flopper					1.1.2
+Flywheel				0.6.8a
+Framed Compacting Drawers		1.18-4.1.0
+FramedBlocks				5.11.3
+FTB Backups 2				1.0.18
+FTB Chunks				1802.3.16-build.247
+FTB Library				1802.3.11-build.177
+FTB Quests				1802.3.14-build.191
+FTB Teams				1802.3.10-build.96
+GameStages				8.1.3
+Golden Hopper				1.2.7
+Harvest with ease			6.0.1.1
+Health Overlay				6.3.4
+Hey Berry! SHUT UP			1.18.2-0.1.0.2
+Hidden Recipe Book			4.0
+Honey expension				1.1.1
+I Know What I'm Doing			5.0.0
+Immersive Engineering			1.18.2-8.4.0-161
+Immersive Posts				4.3.0-3
+Inventory Essentials			4.0.3
+Iron Barrel				1.0.0
+Iron Chests				1.18.2-13.2.11
+Iron Furnaces				3.3.3
+Item Collector				1.1.7
+Item Filters				1802.2.8-build.47
+ItemFavorites				1.0.0
+ItemStages				4.0.1
+Jade					5.2.6
+Jade Addons				2.4.1
+JEI Enchantment Info			1.17.1-2.0.0
+JEI Integration				9.0.0.37
+JEI Tweaker				3.0.0.9
+Journeymap				5.9.5
+JournetMap Integration			0.13-32
+Just Another Void Dimension		3.0.0-build.54+mc.1.18.2
+Just Enough Advancements		1.18.2-3.2.0
+Just Enough Calculation			4.0.2
+Just Enough Effect Descriptions		1.18.2-1.11
+Just Enough Immersive			0.0.2
+Just Enough Items			10.2.1.1002
+Just Enough Painting Previews		1.18-1.0.0
+Just Enough Proffessions (JEP)		1.3.0
+Just Enough Resources			0.14.2.206
+Just Zoom				1.0.1
+Konkrete				1.6.0
+KubeJS					1802.5.5-build.569
+KubeJS Additons (Forge)			2.2.0
+KubeJS ComputerCraft			1.0.1
+KubeJS Create				1802.2.2-build.28
+KubeJS Immersive Engineering		1802.2.1-build.35
+KubeJS Mekanism				1802.1.3-build.8
+KubeJS Thermal				1802.1.5-build.16
+KubeJS Tinkers Construct		1802.1.0-build.1
+Lazier AE2				3.1.5
+LibX					1.18.2-3.2.197
+Light Overlay				6.0.5
+Macaw's Bridges				2.0.7
+Macaw's Doors				1.0.9
+Macow's Fences and Walls		1.0.7
+Macaw's Lights and Lamps		1.0.5
+Macaw's Paintings			1.0.4
+Macaw's Trapdoors			1.0.9
+Macaw's Windows				2.1.1
+Mantle					1.9.43
+MattDahEpic Core			18.0.1
+McJtyLib				1.18-6.0.20
+Measurements				1.3.1
+Mekanism				10.2.5
+Mekanism Matter				2.0.0
+Mekanism: Additions			10.2.5
+Mekanism: Generators			10.2.5
+Mekanism: Tools				10.2.5
+MekFix					1.0.1-build.2+mc1.18.2
+Minecraft Transit Railway		1.18.2-3.2.1-hotfix-1
+Mob Grinding Utils			1.18.2-0.4.47
+Mod Name Tooltip			1.18.0
+Mouse Tweaks				2.21
+Mute					1.0.2-build.7+mc1.18.2
+Mystical Agradditions			5.1.3
+Mystical Agriculture			5.1.4
+Mystical Customization			3.1.2
+Nature's Compass			1.18.2-1.9.7-forge
+Neko's Enchanted Books			1.8.0
+Nether Portal Accessibility		1.0.0-mc1.18.2
+Nether Portal Spread			7.5
+NetherPortalFix				9.0.1
+Nethers Delight				2.2
+No Auto-Jump				1.18.2-1
+Notes					1.18.2-1.2.4
+OpenLoader				12.0.1
+OreExcavation				1.10.162
+Overloaded Armor Bar			1.18.2-6.1
+Patchouli				1.18.2-71.1
+Pipez					1.18.2-1.1.5
+Placebo					6.6.6
+Player Hopper				1.18.2-1.8.1
+Portable Crafting Table			3.0.2
+Portable Mobs --------------------------Disabled
+Potion ID Packet Fixer			1.18.1-v1.0.1
+Puzzles Lib				3.3.6
+Radon					0.8.1
+Random Shulker Colours			3.0
+ReAuth					4.0.7
+Recipe Stages				3.0.0.10
+Restricted Portals			1.18.2-1.2.0
+RFToolsBase				1.18-3.0.12
+Rhino					1802.2.1-build.255
+Sebastrn Lib				1.0.2
+Selene					1.18.2-1.17.9
+Server Statistics			1.18.2-1.1.8
+Showcase Item				1.18.2-1.0
+ShulkerBoxTooltip			3.1.3-1.18.2
+Shutup Experimentals Settings!		1.0.5
+Simple Inventory Sorter			19.0.4
+Simple Magnets				1.1.9
+Smaller Nether Portals			3.4
+Sneaky Tree Growing			1.8.0
+Sophisticated Backpacks			1.18.2-3.18.43.802
+Sophisticated Core			1.18.2-0.5.46.233
+Stack Refill				4.0
+Starlight				1.0.2+forge.83663de
+Storage Drawers				10.2.1
+Super Circuit Maker			0.2.9
+SuperMartijn642's Config Library	1.1.6
+SuperMartijn642's Core Lib		1.1.6
+Supplementaries				1.18.2-1.5.16
+SwingThroughGrass			1.18.2-1.9.1
+Teams Stages				1.0.0
+Thermal Expansion			9.2.0.20
+Thermal Integration			9.2.0.16
+Thermal Series				9.2.0.46
+Time In A Bottle			2.1.0-mc1.18.1
+Tinkers Reforged			2.0.4
+Tinker's Construct			3.6.3.111
+Tinker's Integrations and Tweaks	1.18.2-2.0.15.0
+Tips					5.0.11
+TKLib					0.0.23
+Toast Control				6.0.3
+Too Fast				0.0.1.2
+Torchmaster				18.1.0
+Towns and Towers			1.10.0.1
+Trash Cans				1.0.17a
+TrashSlot				11.0.3
+Unusual End				1.2.6
+ViciousCore				1.18.2-4.7.6
+VineCollector				1.2.3
+Visual Workbench			3.3.0
+Wooden Hopper				1.18.1-1.2.2.1
+Wormhole (Portals)			1.1.12
+XL Packets 				1.18.2-2.1
+XNet					1.18-4.0.9
+XNet Gases				3.0.1
+YUNG's API				1.18.2-Forge-2.2.9
+YUNG's Better Desert Temples		1.18.2-Forge-1.3.1
+YUNG's Better Dungeons			1.18.2-Forge-2.1.0
+YUNG's Better Mineshafts		1.18.2-Forge-2.2
+YUNG's Better Ocean Monuments		1.18.2-Forge-1.0.3
+YUNG's Better Strongholds		1.18.2-Forge-2.1.1
+YUNG's Better Witch Huts		1.18.2-Forge-1.0.1
+YUNG's Better Bridges			1.18.2-Forge-2.1.0
+YUNG's Better Extras			1.18.2-Forge-2.1.0
