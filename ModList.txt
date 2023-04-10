@@ -1,19 +1,19 @@
-Advanced Netherite		1.14.7
-AE2 Things			1.0.5
-AE2WTLib			11.6.3
-AEInfinityBooster		1.18.2-1.1.0+9
-AI-Improvements			0.5.2
-Alchemistry			1.18.2-2.2.1
-AlchemyLib			1.18.2-1.0.20
-Alcocraft: Beer & Stuff		1.0.0
-Alex's Delight			1.3.3
-Alex's Mobs			1.18.6
-Amplified Nether		1.1
-AppleSkin			2.4.1+mc1.18.2
-Applied Cooking			1.0.3
-Applied Energistics 2 		11.7.0
-Applied Mekanistics		1.2.1
-Architectury			4.11.89
+Advanced Netherite			1.14.7
+AE2 Things				1.0.5
+AE2WTLib				11.6.3
+AEInfinityBooster			1.18.2-1.1.0+9
+AI-Improvements				0.5.2
+Alchemistry				1.18.2-2.2.1
+AlchemyLib				1.18.2-1.0.20
+Alcocraft: Beer & Stuff			1.0.0
+Alex's Delight				1.3.3
+Alex's Mobs				1.18.6
+Amplified Nether			1.1
+AppleSkin				2.4.1+mc1.18.2
+Applied Cooking				1.0.3
+Applied Energistics 2 			11.7.0
+Applied Mekanistics			1.2.1
+Architectury				4.11.89 - 4.11.90
 Auto Ore Dictionary Converter		18.0.2
 Auto Smithing Table			1.2.4
 Balm					3..2.6
@@ -56,12 +56,12 @@ Construction Wand			1.18.2-2.9
 Controlling				9.0+22
 CookingForBlockheads			12.2.0
 Corpse					1.18.2-1.0.2
-CraftPresence				2.0.0-rc.1
+CraftPresence				2.0.0-rc.1 - 2.0.0-rc.2
 CraftTweaker				9.1.207
 Create					0.5.0.i
 Create Confectionery			1.0.8
-Create Craft & Additions		1.18.2-20230315b
-Create Deco				1.2.12-1.18.2
+Create Craft & Additions		1.18.2-20230315b - 1.18.2-20230404a
+Create Deco				1.2.12-1.18.2 - 1.3.0-1.18.2
 Create Enchantment Industry		1.1.15
 Create Experienced			0.1.2
 Create: Broken Bad			1.18.2-1.6
@@ -104,7 +104,7 @@ Ferrite Core				4.2.2
 Flopper					1.1.2
 Flywheel				0.6.8a
 Framed Compacting Drawers		1.18-4.1.0
-FramedBlocks				5.11.3
+FramedBlocks				5.11.3 - 5.11.4
 FTB Backups 2				1.0.18
 FTB Chunks				1802.3.16-build.247
 FTB Library				1802.3.11-build.177
@@ -233,7 +233,7 @@ Thermal Expansion			9.2.0.20
 Thermal Integration			9.2.0.16
 Thermal Series				9.2.0.46
 Time In A Bottle			2.1.0-mc1.18.1
-Tinkers Reforged			2.0.4
+Tinkers Reforged			2.0.4 - 2.0.5
 Tinker's Construct			3.6.3.111
 Tinker's Integrations and Tweaks	1.18.2-2.0.15.0
 Tips					5.0.11
