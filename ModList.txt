@@ -201,6 +201,7 @@ Portable Crafting Table			3.0.2
 Portable Mobs --------------------------Disabled
 Potion ID Packet Fixer			1.18.1-v1.0.1
 Puzzles Lib				3.3.6
+Quests Additions			- 1.4.1
 Radon					0.8.1
 Random Shulker Colours			3.0
 ReAuth					4.0.7
