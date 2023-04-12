@@ -69,6 +69,7 @@ Create: Connected Block Textures	0.5.4
 Create: Crystal Clear			1.18.2-0.1.3e
 create: things and misc			1.0.0
 CreateTweaker				2.0.0.18
+CreativeCore				v2.6.16-mc1.18.2
 Cucumber Library			5.1.3
 Curios API				1.18.2-5.0.9.0
 Curious Armor Stands			1.18.1-4.0.0
@@ -127,6 +128,7 @@ Iron Furnaces				3.3.3
 Item Collector				1.1.7
 Item Filters				1802.2.8-build.47
 ItemFavorites				1.0.0
+ItemPhysic				1.6.0
 ItemStages				4.0.1
 Jade					5.2.6
 Jade Addons				2.4.1
@@ -189,6 +191,7 @@ Nether Portal Spread			7.5
 NetherPortalFix				9.0.1
 Nethers Delight				2.2
 No Auto-Jump				1.18.2-1
+Not Enough Crashes			4.2.0+1.18.2
 Notes					1.18.2-1.2.4
 OpenLoader				12.0.1
 OreExcavation				1.10.162
