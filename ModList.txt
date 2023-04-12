@@ -226,7 +226,7 @@ Starlight				1.0.2+forge.83663de
 Storage Drawers				10.2.1
 Super Circuit Maker			0.2.9
 SuperMartijn642's Config Library	1.1.6
-SuperMartijn642's Core Lib		1.1.6
+SuperMartijn642's Core Lib		1.1.6 - 1.1.7
 Supplementaries				1.18.2-1.5.16
 SwingThroughGrass			1.18.2-1.9.1
 Teams Stages				1.0.0
