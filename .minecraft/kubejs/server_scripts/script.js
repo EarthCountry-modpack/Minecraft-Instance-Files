@@ -352,7 +352,8 @@ onEvent('tags.items', event => {
 	event.remove('forge:nuggets', 'tinkers_reforged:baolian_ingot')
 	event.remove('forge:nuggets', 'tinkers_reforged:piroot_ingot')
 
-	
+	// Add tags for custom items (Science)
+	event.add('forge:science/physics', 'kubejs:physics_science')
 	
 	// Removes all tags from this entry
 	// event.removeAllTagsFrom('minecraft:stick')
