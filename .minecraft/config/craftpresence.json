@@ -312,7 +312,8 @@
     },
     "dynamicIcons": {
       "default": "https://via.placeholder.com/256.png",
-      "Alien_25": "https://crafatar.com/avatars/5b01c13fbf9249e3b05aaf17db443407"
+      "Alien_25": "https://crafatar.com/avatars/5b01c13fbf9249e3b05aaf17db443407",
+      "ec.8e-couche.xyz": "https://api.mcsrvstat.us/icon/ec.8e-couche.xyz"
     },
     "dynamicVariables": {
       "default": "Example Text",

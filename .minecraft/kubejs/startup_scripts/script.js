@@ -1,12 +1,20 @@
 // priority: 0
 
-console.info('Hello, World! (You will only see this line once in console, during startup)')
-
 onEvent('item.registry', event => {
 	// Register new items here
 	// event.create('example_item').displayName('Example Item')
 
+	// Science Items
 	event.create('physics_science').displayName('§3Physics point§r')
+
+	
+	// Particles Items
+	event.create('quark1_up').displayName('§3Up quark§r')
+	event.create('quark1_down').displayName('§3Down quark§r')
+	event.create('quark2_charm').displayName('§3Charm quark§r')
+	event.create('quark2_strange').displayName('§3Strange quark§r')
+	event.create('quark3_top').displayName('§3Top quark§r')
+	event.create('quark3_bottom').displayName('§3Bottom quark§r')
 
 })
 
