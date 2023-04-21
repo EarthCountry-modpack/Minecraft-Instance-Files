@@ -11,7 +11,7 @@ Alex's Mobs				1.18.6
 Amplified Nether			1.1
 AppleSkin				2.4.1+mc1.18.2
 Applied Cooking				1.0.3
-Applied Energistics 2 			11.7.0 - 11.7.2
+Applied Energistics 2 			11.7.2 - 11.7.3
 Applied Mekanistics			1.2.1
 Architectury				4.11.89 - 4.11.90
 Auto Ore Dictionary Converter		18.0.2
@@ -200,7 +200,7 @@ OreExcavation				1.10.162
 Overloaded Armor Bar			1.18.2-6.1
 Patchouli				1.18.2-71.1
 Pipez					1.18.2-1.1.5
-Placebo					6.6.6
+Placebo					6.6.6 - 6.6.7
 Player Hopper				1.18.2-1.8.1
 Portable Mobs --------------------------Disabled
 Potion ID Packet Fixer			1.18.1-v1.0.1
@@ -223,7 +223,7 @@ Simple Inventory Sorter			19.0.4
 Simple Magnets				1.1.9
 Smaller Nether Portals			3.4
 Sneaky Tree Growing			1.8.0
-Sophisticated Backpacks			1.18.2-3.18.43.802 - 1.18.2-3.18.44.814
+Sophisticated Backpacks			1.18.2-3.18.44.814 - 1.18.2-3.18.45.818
 Sophisticated Core			1.18.2-0.5.46.233 - 1.18.2-0.5.48.244
 Stack Refill				4.0
 Starlight				1.0.2+forge.83663de
