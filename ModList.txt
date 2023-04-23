@@ -33,6 +33,7 @@ BucketLib				1.18.2-0.5.4.1
 Caelus API				1.18.1-3.0.0.2
 Catalogue				1.6.2
 CC: Tweaked				1.101.2
+CC:C Bridge				1.3.1
 Celestial Config			1.0.0
 Ceramic Bucket				1.18.2-3.0.5.0
 Ceramic Shears				1.18.2-1.6.1.1
@@ -40,6 +41,7 @@ ChemLib					1.18.2-2.0.16
 Chikens					1.0.30
 ChoiceTheorem's Overhauled Villages	2.9.3
 Citadel					1.11.3
+Click Machine				6.0.5
 clickadv mod				1.18.2-2.5
 Climb Ladders Fast			2.2.3-1.18
 Cloth Config v4 API			6.4.90
