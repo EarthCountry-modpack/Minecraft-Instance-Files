@@ -227,7 +227,7 @@ Sneaky Tree Growing			1.8.0
 Sophisticated Backpacks			1.18.2-3.18.45.818 - 1.18.2-3.18.46.821
 Sophisticated Core			1.18.2-0.5.48.244 - 1.18.2-0.5.50.250
 Stack Refill				4.0
-Starlight				1.0.2+forge.83663de
+Starlight				1.0.2+forge.546ae87
 Storage Drawers				10.2.1
 Super Circuit Maker			0.2.9
 SuperMartijn642's Config Library	1.1.6
