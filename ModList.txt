@@ -13,7 +13,7 @@ AppleSkin				2.4.1+mc1.18.2
 Applied Cooking				1.0.3
 Applied Energistics 2 			11.7.2 - 11.7.3
 Applied Mekanistics			1.2.1
-Architectury				4.11.90 - 4.11.92
+Architectury				4.11.92 - 4.11.93
 Auto Ore Dictionary Converter		18.0.2
 Auto Smithing Table			1.2.4
 Balm					3.2.6
@@ -38,8 +38,8 @@ Celestial Config			1.0.0
 Ceramic Bucket				1.18.2-3.0.5.0
 Ceramic Shears				1.18.2-1.6.1.1
 ChemLib					1.18.2-2.0.16
-Chikens					1.0.30
-ChoiceTheorem's Overhauled Villages	2.9.3
+Chikens					1.0.30 - 1.0.31
+ChoiceTheorem's Overhauled Villages	2.9.3 - 2.9.4
 Citadel					1.11.3
 Click Machine				6.0.5
 clickadv mod				1.18.2-2.5
@@ -63,8 +63,8 @@ CraftPresence				2.0.0-rc.2 - 2.0.0-rc.3
 CraftTweaker				9.1.207
 Create					0.5.0.i
 Create Confectionery			1.0.8
-Create Craft & Additions		1.18.2-20230411a - 1.18.2-20230426
-Create Deco				1.3.0-1.18.2 - 1.3.1-1.18.2
+Create Craft & Additions		1.18.2-20230426 - 1.18.2-20230507a
+Create Deco				1.3.1-1.18.2 - 1.3.2-1.18.2
 Create Enchantment Industry		1.1.17 - 1.2.0
 Create: Broken Bad			1.18.2-1.6
 Create: Connected Block Textures	0.5.4
@@ -98,7 +98,7 @@ Extended Crafting			4.1.2
 Extended Creative Inventory		2.1
 Extreme Sound Muffler			3.31_forge-1.18.2
 Falling Leaves				1.3.2
-Farmer's Delight			1.18.2-1.2.0
+Farmer's Delight			1.18.2-1.2.0 - 1.18.2-1.2.1
 Farmer's Respite			1.18.1-1.3.0
 Fast Suite				3.0.2
 Fast Workbench				6.1.1
@@ -138,7 +138,7 @@ Jade Addons				2.4.1
 JEI Enchantment Info			1.17.1-2.0.0
 JEI Integration				9.0.0.37
 JEI Tweaker				3.0.0.9
-Journeymap				5.9.5
+Journeymap				5.9.5 - 5.9.6
 JournetMap Integration			0.13-32
 Just Another Void Dimension		3.0.0-build.54+mc.1.18.2
 Just Enough Advancements		1.18.2-3.2.0
@@ -179,7 +179,7 @@ Mekanism: Additions			10.2.5
 Mekanism: Generators			10.2.5
 Mekanism: Tools				10.2.5
 MekFix					1.0.1-build.2+mc1.18.2
-Mob Grinding Utils			1.18.2-0.4.47 - 1.18.2-0.4.48
+Mob Grinding Utils			1.18.2-0.4.48 - 1.18.2-0.4.49
 Mod Name Tooltip			1.18.0
 MoreJS					0.0.6
 Mouse Tweaks				2.21
@@ -206,7 +206,7 @@ Player Hopper				1.18.2-1.8.1
 Portable Mobs --------------------------Disabled
 Potion ID Packet Fixer			1.18.1-v1.0.1
 Puzzles Lib				3.3.6
-Quests Additions			- 1.4.1
+Quests Additions			1.4.1 - 1.4.2
 Radon					0.8.1
 Random Shulker Colours			3.0
 ReAuth					4.0.7
@@ -225,7 +225,7 @@ Simple Magnets				1.1.9
 Smaller Nether Portals			3.4
 Sneaky Tree Growing			1.8.0
 Sophisticated Backpacks			1.18.2-3.18.45.818 - 1.18.2-3.18.46.821
-Sophisticated Core			1.18.2-0.5.48.244 - 1.18.2-0.5.50.250
+Sophisticated Core			1.18.2-0.5.50.250 - 1.18.2-0.5.53.260
 Stack Refill				4.0
 Starlight				1.0.2+forge.546ae87
 Storage Drawers				10.2.1
@@ -250,7 +250,7 @@ Torchmaster				18.1.0
 Towns and Towers			1.10.0.1
 Trash Cans				1.0.17a
 TrashSlot				11.0.3
-Unusual End				1.2.6
+Unusual End				1.2.6 - 1.4.0
 ViciousCore				1.18.2-4.7.6
 VineCollector				1.2.3
 Visual Workbench			3.3.0
