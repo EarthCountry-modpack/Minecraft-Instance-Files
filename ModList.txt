@@ -11,7 +11,7 @@ Alex's Mobs				1.18.6
 Amplified Nether			1.1
 AppleSkin				2.4.1+mc1.18.2
 Applied Cooking				1.0.3
-Applied Energistics 2 			11.7.2 - 11.7.3
+Applied Energistics 2 			11.7.3 - 11.7.4
 Applied Mekanistics			1.2.1
 Architectury				4.11.92 - 4.11.93
 Auto Ore Dictionary Converter		18.0.2
@@ -61,16 +61,16 @@ Corpse					1.18.2-1.0.2
 Craft Creator				1.0.0
 CraftPresence				2.0.0-rc.2 - 2.0.0-rc.3
 CraftTweaker				9.1.207
-Create					0.5.0.i
+Create					0.5.0.i - non-updated
 Create Confectionery			1.0.8
-Create Craft & Additions		1.18.2-20230426 - 1.18.2-20230507a
+Create Craft & Additions		1.18.2-20230507a - non-updated
 Create Deco				1.3.1-1.18.2 - 1.3.2-1.18.2
 Create Enchantment Industry		1.1.17 - 1.2.0
 Create: Broken Bad			1.18.2-1.6
 Create: Connected Block Textures	0.5.4
 Create: Crystal Clear			1.18.2-0.1.3e
-create: things and misc			1.0.0
-CreateTweaker				2.0.0.18
+create: things and misc			2.0 - 3.0
+CreateTweaker				2.0.0.18 - non-updated
 CreativeCore				v2.6.16-mc1.18.2
 Cucumber Library			5.1.3
 Curios API				1.18.2-5.0.9.0
@@ -134,7 +134,7 @@ ItemFavorites				1.0.0
 ItemPhysic				1.6.0
 ItemStages				4.0.1
 Jade					5.2.6
-Jade Addons				2.4.1
+Jade Addons				2.4.1 - 2.5.0
 JEI Enchantment Info			1.17.1-2.0.0
 JEI Integration				9.0.0.37
 JEI Tweaker				3.0.0.9
@@ -167,7 +167,7 @@ Macaw's Doors				1.0.9
 Macow's Fences and Walls		1.0.7
 Macaw's Lights and Lamps		1.0.5
 Macaw's Paintings			1.0.4
-Macaw's Trapdoors			1.0.9
+Macaw's Trapdoors			1.0.9 - 1.1.0
 Macaw's Windows				2.1.1
 Mantle					1.9.43 - 1.9.45
 MattDahEpic Core			18.0.1
@@ -224,14 +224,14 @@ Simple Inventory Sorter			19.0.4
 Simple Magnets				1.1.9
 Smaller Nether Portals			3.4
 Sneaky Tree Growing			1.8.0
-Sophisticated Backpacks			1.18.2-3.18.45.818 - 1.18.2-3.18.46.821
-Sophisticated Core			1.18.2-0.5.50.250 - 1.18.2-0.5.53.260
+Sophisticated Backpacks			1.18.2-3.18.46.821 - 1.18.2-3.18.48.835
+Sophisticated Core			1.18.2-0.5.53.260 - 1.18.2-0.5.56.273
 Stack Refill				4.0
 Starlight				1.0.2+forge.546ae87
 Storage Drawers				10.2.1
 Super Circuit Maker			0.2.9
 SuperMartijn642's Config Library	1.1.6
-SuperMartijn642's Core Lib		1.1.6 - 1.1.7
+SuperMartijn642's Core Lib		1.1.7 - 1.1.9a
 Supplementaries				1.18.2-1.5.16
 SwingThroughGrass			1.18.2-1.9.1
 Teams Stages				1.0.0
@@ -250,7 +250,7 @@ Torchmaster				18.1.0
 Towns and Towers			1.10.0.1
 Trash Cans				1.0.17a
 TrashSlot				11.0.3
-Unusual End				1.2.6 - 1.4.0
+Unusual End				1.4.0 - 1.4.2
 ViciousCore				1.18.2-4.7.6
 VineCollector				1.2.3
 Visual Workbench			3.3.0
