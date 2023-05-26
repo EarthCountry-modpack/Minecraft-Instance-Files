@@ -138,7 +138,7 @@ Jade Addons				2.4.1
 JEI Enchantment Info			1.17.1-2.0.0
 JEI Integration				9.0.0.37
 JEI Tweaker				3.0.0.9
-Journeymap				5.9.5 - 5.9.6
+Journeymap				5.9.6 - 5.9.7
 JournetMap Integration			0.13-32
 Just Another Void Dimension		3.0.0-build.54+mc.1.18.2
 Just Enough Advancements		1.18.2-3.2.0
