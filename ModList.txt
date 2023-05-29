@@ -26,7 +26,7 @@ BetterF3				3.0.0
 Betterfpsdist mod			1.18.2-1.5
 BetterThanMending			1.8.1
 Boat Item View				0.0.3
-Bookshelf				13.2.53
+Bookshelf				13.2.53 - 13.2.56
 BotanyPots				8.1.28
 BotanyTrees				4.0.6
 BucketLib				1.18.2-0.5.4.1
@@ -55,7 +55,7 @@ Configured				2.0.1
 ConnectedTexturesMod			1.18.2-1.1.5+5
 Connectivity Mod			1.18.2-3.2
 Construction Wand			1.18.2-2.9
-Controlling				9.0+22
+Controlling				9.0+22 - 9.0+23
 CookingForBlockheads			12.2.0
 Corpse					1.18.2-1.0.2
 Craft Creator				1.0.0
@@ -129,10 +129,10 @@ Iron Barrel				1.0.0
 Iron Chests				1.18.2-13.2.11
 Iron Furnaces				3.3.3
 Item Collector				1.1.7
-Item Filters				1802.2.8-build.47
+Item Filters				1802.2.8-build.47 - 1802.2.8-build.50
 ItemFavorites				1.0.0
 ItemPhysic				1.6.0
-ItemStages				4.0.1
+ItemStages				4.0.1 - 4.0.3
 Jade					5.2.6
 Jade Addons				2.4.1 - 2.5.0
 JEI Enchantment Info			1.17.1-2.0.0
