@@ -29,12 +29,3 @@ onEvent('item.registry', event => {
 	event.create('tau3').displayName('§eTau§r')
 
 })
-
-onEvent('block.registry', event => {
-	// Register new blocks here
-	// event.create('example_block').material('wood').hardness(1.0).displayName('Example Block')
-
-	// Massless Matter
-	event.create('massless_matter_block').material('air').hardness(0.0).displayName('§dMassless Matter§r')
-
-})
