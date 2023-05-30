@@ -1,5 +1,4 @@
 // priority: 0
-Platform.mods.kubejs.name = 'EarthCountry'
 
 onEvent('item.registry', event => {
 	// Register new items here
