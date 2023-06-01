@@ -58,7 +58,7 @@ Construction Wand			1.18.2-2.9
 Controlling				9.0+22 - 9.0+23
 CookingForBlockheads			12.2.0
 Corpse					1.18.2-1.0.2
-Craft Creator				1.0.0
+Craft Creator				1.0.0 - will be removed for server connection
 CraftPresence				2.0.0-rc.2 - 2.0.0-rc.3
 CraftTweaker				9.1.207
 Create					0.5.0.i - non-updated
