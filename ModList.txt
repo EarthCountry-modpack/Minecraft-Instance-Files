@@ -59,7 +59,7 @@ Controlling				9.0+22 - 9.0+23
 CookingForBlockheads			12.2.0
 Corpse					1.18.2-1.0.2
 Craft Creator				1.0.0 - will be removed for server connection
-CraftPresence				2.0.0-rc.2 - 2.0.0-rc.3
+CraftPresence				2.0.0-rc.3 - 2.0.0
 CraftTweaker				9.1.207
 Create					0.5.0.i - non-updated
 Create Confectionery			1.0.8
@@ -110,7 +110,7 @@ Flopper					1.1.2
 Flywheel				0.6.8a
 Framed Compacting Drawers		1.18-4.1.0
 FramedBlocks				5.11.3 - 5.11.4
-FTB Backups 2				1.0.18
+FTB Backups 2				1.0.18 - 1.0.19
 FTB Chunks				1802.3.16-build.247 - 1802.3.17-build.265
 FTB Library				1802.3.11-build.177
 FTB Quests				1802.3.14-build.191
@@ -217,6 +217,7 @@ Rhino					1802.2.1-build.255
 Sebastrn Lib				1.0.2
 Selene					1.18.2-1.17.9
 Server Statistics			1.18.2-1.1.8
+ShetiPhian-Core				3.10.14 - 3.10.15
 Showcase Item				1.18.2-1.0
 ShulkerBoxTooltip			3.1.3-1.18.2
 Shutup Experimentals Settings!		1.0.5
@@ -241,7 +242,7 @@ Thermal Series				9.2.0.46
 Time In A Bottle			2.1.0-mc1.18.1
 Tinkers Reforged			2.0.5 - 2.0.6
 Tinker's Construct			3.6.3.111 - 3.6.4.113
-Tinker's Integrations and Tweaks	1.18.2-2.0.15.0
+Tinker's Integrations and Tweaks	1.18.2-2.0.15.0 - non-updated
 Tips					5.0.11
 TKLib					0.0.23
 Toast Control				6.0.3
@@ -250,7 +251,7 @@ Torchmaster				18.1.0
 Towns and Towers			1.10.0.1
 Trash Cans				1.0.17a
 TrashSlot				11.0.3
-Unusual End				1.4.0 - 1.4.2
+Unusual End				1.4.2 - 1.4.3
 ViciousCore				1.18.2-4.7.6
 VineCollector				1.2.3
 Visual Workbench			3.3.0
