@@ -29,7 +29,7 @@ Boat Item View				0.0.3
 Bookshelf				13.2.53 - 13.2.56
 BotanyPots				8.1.28
 BotanyTrees				4.0.6
-BucketLib				1.18.2-0.5.4.1
+BucketLib				1.18.2-0.5.4.1 - 1.18.2-0.5.5.0
 Caelus API				1.18.1-3.0.0.2
 Catalogue				1.6.2
 CC: Tweaked				1.101.2
@@ -59,7 +59,7 @@ Controlling				9.0+22 - 9.0+23
 CookingForBlockheads			12.2.0
 Corpse					1.18.2-1.0.2
 Craft Creator				1.0.0 - will be removed for server connection
-CraftPresence				2.0.0-rc.3 - 2.0.0
+CraftPresence				2.0.0 - 2.0.5
 CraftTweaker				9.1.207
 Create					0.5.0.i - non-updated
 Create Confectionery			1.0.8
@@ -78,7 +78,7 @@ Curious Armor Stands			1.18.1-4.0.0
 Curious Elytra				1.18.1-5.0.1.0
 Custom Machinery			0.8.2
 Custom Machinery Mekanism		1.2.0
-Cyclops Core				1.17.2 - 1.17.3
+Cyclops Core				1.17.3 - 1.17.4
 DarkModeEverywhere			1.18.1-1.0.2
 Debugify				1.11.0
 Default Server Properties		1.0.1-build.10+mc1.18.2
@@ -109,7 +109,7 @@ Ferrite Core				4.2.2
 Flopper					1.1.2
 Flywheel				0.6.8a
 Framed Compacting Drawers		1.18-4.1.0
-FramedBlocks				5.11.3 - 5.11.4
+FramedBlocks				5.11.4 - 5.11.5
 FTB Backups 2				1.0.18 - 1.0.19
 FTB Chunks				1802.3.16-build.247 - 1802.3.17-build.265
 FTB Library				1802.3.11-build.177
@@ -152,7 +152,7 @@ Just Enough Resources			0.14.2.206
 Just Zoom				1.0.1
 Konkrete				1.6.0 - 1.6.1
 KubeJS					1802.5.5-build.569
-KubeJS Additons (Forge)			2.2.0
+KubeJS Additons (Forge)			2.2.0 - 2.2.3
 KubeJS ComputerCraft			1.0.1
 KubeJS Create				1802.2.2-build.28
 KubeJS Immersive Engineering		1802.2.1-build.35
@@ -205,7 +205,7 @@ Placebo					6.6.6 - 6.6.7
 Player Hopper				1.18.2-1.8.1
 Portable Mobs --------------------------Disabled
 Potion ID Packet Fixer			1.18.1-v1.0.1
-Puzzles Lib				3.3.6
+Puzzles Lib				3.3.6 - 3.4.5
 Quests Additions			1.4.1 - 1.4.2
 Radon					0.8.1
 Random Shulker Colours			3.0
@@ -225,8 +225,8 @@ Simple Inventory Sorter			19.0.4
 Simple Magnets				1.1.9
 Smaller Nether Portals			3.4
 Sneaky Tree Growing			1.8.0
-Sophisticated Backpacks			1.18.2-3.18.46.821 - 1.18.2-3.18.48.835
-Sophisticated Core			1.18.2-0.5.53.260 - 1.18.2-0.5.56.273
+Sophisticated Backpacks			1.18.2-3.18.48.835 - 1.18.2-3.18.52.846
+Sophisticated Core			1.18.2-0.5.56.273 - 1.18.2-0.5.67.307
 Stack Refill				4.0
 Starlight				1.0.2+forge.546ae87
 Storage Drawers				10.2.1
