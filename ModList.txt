@@ -58,7 +58,7 @@ Construction Wand			1.18.2-2.9
 Controlling				9.0+22 - 9.0+23
 CookingForBlockheads			12.2.0
 Corpse					1.18.2-1.0.2
-Craft Creator				1.0.0 - will be removed for server connection
+Craft Creator				3.0.1 - will be removed for server connection
 CraftPresence				2.0.0 - 2.0.5
 CraftTweaker				9.1.207
 Create					0.5.0.i - non-updated
@@ -179,7 +179,7 @@ Mekanism: Additions			10.2.5
 Mekanism: Generators			10.2.5
 Mekanism: Tools				10.2.5
 MekFix					1.0.1-build.2+mc1.18.2
-Mob Grinding Utils			1.18.2-0.4.48 - 1.18.2-0.4.49
+Mob Grinding Utils			1.18.2-0.4.49 - 1.18.2-0.4.50
 Mod Name Tooltip			1.18.0
 MoreJS					0.0.6
 Mouse Tweaks				2.21
@@ -247,7 +247,7 @@ Tips					5.0.11
 TKLib					0.0.23
 Toast Control				6.0.3
 Too Fast				0.0.1.2
-Torchmaster				18.1.0
+Torchmaster				18.1.0 - 18.2.0
 Towns and Towers			1.10.0.1
 Trash Cans				1.0.17a
 TrashSlot				11.0.3
