@@ -48,7 +48,7 @@ Cloth Config v4 API			6.4.90
 Clumps					8.0.0+17
 Cobble For Days 			1.5.1
 CoFH Core				9.2.1
-Collective				6.53
+Collective				6.53 - 6.57
 Compact Crafting			2.0.0
 Compact Machines 4			4.5.0
 Configured				2.0.1
@@ -59,7 +59,7 @@ Controlling				9.0+22 - 9.0+23
 CookingForBlockheads			12.2.0
 Corpse					1.18.2-1.0.2
 Craft Creator				3.0.1 - will be removed for server connection
-CraftPresence				2.0.0 - 2.0.5
+CraftPresence				2.0.5 - 2.0.7
 CraftTweaker				9.1.207
 Create					0.5.0.i - non-updated
 Create Confectionery			1.0.8
@@ -72,24 +72,24 @@ Create: Crystal Clear			1.18.2-0.1.3e
 create: things and misc			2.0 - 3.0
 CreateTweaker				2.0.0.18 - non-updated
 CreativeCore				v2.6.16-mc1.18.2
-Cucumber Library			5.1.3
+Cucumber Library			5.1.3 - 5.1.4
 Curios API				1.18.2-5.0.9.0
 Curious Armor Stands			1.18.1-4.0.0
 Curious Elytra				1.18.1-5.0.1.0
-Custom Machinery			0.8.2
+Custom Machinery			0.8.2 - 0.8.3
 Custom Machinery Mekanism		1.2.0
-Cyclops Core				1.17.3 - 1.17.4
+Cyclops Core				1.17.4 - 1.17.5
 DarkModeEverywhere			1.18.1-1.0.2
 Debugify				1.11.0
 Default Server Properties		1.0.1-build.10+mc1.18.2
 Durability Tooltip			1.1.4
 Easy Shulker Boxes			3.1.1
-Eccentric Tome				1.18.2-1.9.1 - 1.18.2-1.10.0
+Eccentric Tome				1.18.2-1.10.0 - 1.18.2-1.10.1
 Edible Nether Wart			1.0.1
 Elevator Mod				1.18.2-1.8.4
 EnchantmentDescription			10.0.12
-EnderChests				1.9.9
-EnderTanks				1.11.11
+EnderChests				1.9.9 - 1.9.10
+EnderTanks				1.11.11 - 1.11.12
 EntityCulling				1.6.1
 Ex Nihilo: Sequentia			1.18.2-20221113-044349
 ExCompressum				5.0.3
@@ -114,7 +114,7 @@ FTB Backups 2				1.0.18 - 1.0.19
 FTB Chunks				1802.3.16-build.247 - 1802.3.17-build.265
 FTB Library				1802.3.11-build.177
 FTB Quests				1802.3.14-build.191
-FTB Teams				1802.3.10-build.96
+FTB Teams				1802.2.10-build.96 - 1802.2.11-build.107
 GameStages				8.1.3
 Golden Hopper				1.2.7
 Harvest with ease			6.0.1.1 - 6.0.1.2
@@ -184,8 +184,8 @@ Mod Name Tooltip			1.18.0
 MoreJS					0.0.6
 Mouse Tweaks				2.21
 Mute					1.0.2-build.7+mc1.18.2
-Mystical Agradditions			5.1.3
-Mystical Agriculture			5.1.4
+Mystical Agradditions			5.1.3 - 5.1.4
+Mystical Agriculture			5.1.4 - 5.1.5
 Mystical Customization			3.1.2
 Nature's Compass			1.18.2-1.9.7-forge
 Neko's Enchanted Books			1.8.0
@@ -203,7 +203,7 @@ Patchouli				1.18.2-71.1
 Pipez					1.18.2-1.1.5
 Placebo					6.6.6 - 6.6.7
 Player Hopper				1.18.2-1.8.1
-Portable Mobs --------------------------Disabled
+Portable Mobs				1.1.2
 Potion ID Packet Fixer			1.18.1-v1.0.1
 Puzzles Lib				3.3.6 - 3.4.5
 Quests Additions			1.4.1 - 1.4.2
@@ -217,7 +217,7 @@ Rhino					1802.2.1-build.255
 Sebastrn Lib				1.0.2
 Selene					1.18.2-1.17.9
 Server Statistics			1.18.2-1.1.8
-ShetiPhian-Core				3.10.14 - 3.10.15
+ShetiPhian-Core				3.10.15 - 3.10.16
 Showcase Item				1.18.2-1.0
 ShulkerBoxTooltip			3.1.3-1.18.2
 Shutup Experimentals Settings!		1.0.5
@@ -226,7 +226,7 @@ Simple Magnets				1.1.9
 Smaller Nether Portals			3.4
 Sneaky Tree Growing			1.8.0
 Sophisticated Backpacks			1.18.2-3.18.48.835 - 1.18.2-3.18.52.846
-Sophisticated Core			1.18.2-0.5.56.273 - 1.18.2-0.5.67.307
+Sophisticated Core			1.18.2-0.5.69.315 - 1.18.2-0.5.70.320
 Stack Refill				4.0
 Starlight				1.0.2+forge.546ae87
 Storage Drawers				10.2.1
@@ -240,7 +240,7 @@ Thermal Expansion			9.2.0.20
 Thermal Integration			9.2.0.16
 Thermal Series				9.2.0.46
 Time In A Bottle			2.1.0-mc1.18.1
-Tinkers Reforged			2.0.5 - 2.0.6
+Tinkers Reforged			2.0.6 - 2.0.8
 Tinker's Construct			3.6.3.111 - 3.6.4.113
 Tinker's Integrations and Tweaks	1.18.2-2.0.15.0 - non-updated
 Tips					5.0.11
