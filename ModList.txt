@@ -48,7 +48,7 @@ Cloth Config v4 API			6.4.90
 Clumps					8.0.0+17
 Cobble For Days 			1.5.1
 CoFH Core				9.2.1
-Collective				6.53 - 6.57
+Collective				6.57 - 6.61
 Compact Crafting			2.0.0
 Compact Machines 4			4.5.0
 Configured				2.0.1
@@ -73,15 +73,15 @@ create: things and misc			2.0 - 3.0
 CreateTweaker				2.0.0.18 - non-updated
 CreativeCore				v2.6.16-mc1.18.2
 Cucumber Library			5.1.3 - 5.1.4
-Curios API				1.18.2-5.0.9.0
+Curios API				1.18.2-5.0.9.0 - 1.18.2-5.0.9.1
 Curious Armor Stands			1.18.1-4.0.0
 Curious Elytra				1.18.1-5.0.1.0
-Custom Machinery			0.8.2 - 0.8.3
+Custom Machinery			0.8.3 - 0.8.4
 Custom Machinery Mekanism		1.2.0
 Cyclops Core				1.17.4 - 1.17.5
 DarkModeEverywhere			1.18.1-1.0.2
 Debugify				1.11.0
-Default Server Properties		1.0.1-build.10+mc1.18.2
+Default Server Properties		1.0.1-build.10+mc1.18.2 - 74.1.2
 Durability Tooltip			1.1.4
 Easy Shulker Boxes			3.1.1
 Eccentric Tome				1.18.2-1.10.0 - 1.18.2-1.10.1
@@ -104,7 +104,7 @@ Fast Suite				3.0.2
 Fast Workbench				6.1.1
 FastFurnace				6.0.3
 FastLeafDecay				28
-Fastload				2.6.9+1.18.2
+Fastload				2.6.9+1.18.2 - 8.2.1
 Ferrite Core				4.2.2
 Flopper					1.1.2
 Flywheel				0.6.8a
@@ -117,7 +117,7 @@ FTB Quests				1802.3.14-build.191
 FTB Teams				1802.2.10-build.96 - 1802.2.11-build.107
 GameStages				8.1.3
 Golden Hopper				1.2.7
-Harvest with ease			6.0.1.1 - 6.0.1.2
+Harvest with ease			6.0.1.2 - 6.0.1.3
 Health Overlay				6.3.4
 Hey Berry! SHUT UP			1.18.2-0.1.0.2
 Honey expension				1.1.1
@@ -162,7 +162,7 @@ KubeJS Tinkers Construct		1802.1.0-build.1
 Lazier AE2				3.1.5
 LibX					1.18.2-3.2.197
 Light Overlay				6.0.5
-Macaw's Bridges				2.0.7
+Macaw's Bridges				2.0.7 - 2.1.0
 Macaw's Doors				1.0.9
 Macow's Fences and Walls		1.0.7
 Macaw's Lights and Lamps		1.0.5
@@ -205,7 +205,7 @@ Placebo					6.6.6 - 6.6.7
 Player Hopper				1.18.2-1.8.1
 Portable Mobs				1.1.2
 Potion ID Packet Fixer			1.18.1-v1.0.1
-Puzzles Lib				3.3.6 - 3.4.5
+Puzzles Lib				3.4.5 - 3.4.6
 Quests Additions			1.4.1 - 1.4.2
 Radon					0.8.1
 Random Shulker Colours			3.0
