@@ -133,7 +133,7 @@ Item Filters				1802.2.8-build.47 - 1802.2.8-build.50
 ItemFavorites				1.0.0
 ItemPhysic				1.6.0
 ItemStages				4.0.1 - 4.0.3
-Jade					5.2.6
+Jade					5.2.6 - 5.3.0
 Jade Addons				2.4.1 - 2.5.0
 JEI Enchantment Info			1.17.1-2.0.0
 JEI Integration				9.0.0.37
