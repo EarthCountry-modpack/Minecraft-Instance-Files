@@ -20,7 +20,7 @@ Balm					3.2.6
 Better Biom Blend			1.3.5-forge
 Better Brighness Slider			1.0
 Better Compatibility Checker		1.1.21-build.48+mc1.18.2
-Better Mods Button			3.2.3
+Better Mods Button			3.2.3 - 3.2.4
 Better Ping Display			1.1
 BetterF3				3.0.0
 Betterfpsdist mod			1.18.2-1.5
@@ -48,7 +48,7 @@ Cloth Config v4 API			6.4.90
 Clumps					8.0.0+17
 Cobble For Days 			1.5.1
 CoFH Core				9.2.1
-Collective				6.57 - 6.61
+Collective				6.61 - 6.62
 Compact Crafting			2.0.0
 Compact Machines 4			4.5.0
 Configured				2.0.1
@@ -60,7 +60,7 @@ CookingForBlockheads			12.2.0
 Corpse					1.18.2-1.0.2
 Craft Creator				3.0.1 - will be removed for server connection
 CraftPresence				2.0.5 - 2.0.7
-CraftTweaker				9.1.207
+CraftTweaker				9.1.207 - 9.1.208
 Create					0.5.0.i - non-updated
 Create Confectionery			1.0.8
 Create Craft & Additions		1.18.2-20230507a - non-updated
@@ -167,7 +167,7 @@ Macaw's Doors				1.0.9
 Macow's Fences and Walls		1.0.7
 Macaw's Lights and Lamps		1.0.5
 Macaw's Paintings			1.0.4
-Macaw's Trapdoors			1.0.9 - 1.1.0
+Macaw's Trapdoors			1.1.0 - 1.1.1
 Macaw's Windows				2.1.1
 Mantle					1.9.43 - 1.9.45
 MattDahEpic Core			18.0.1
@@ -225,15 +225,15 @@ Simple Inventory Sorter			19.0.4
 Simple Magnets				1.1.9
 Smaller Nether Portals			3.4
 Sneaky Tree Growing			1.8.0
-Sophisticated Backpacks			1.18.2-3.18.48.835 - 1.18.2-3.18.52.846
-Sophisticated Core			1.18.2-0.5.69.315 - 1.18.2-0.5.70.320
+Sophisticated Backpacks			1.18.2-3.18.52.846 - 1.18.2-3.18.53.859
+Sophisticated Core			1.18.2-0.5.70.320 - 1.18.2-0.5.72.331
 Stack Refill				4.0
 Starlight				1.0.2+forge.546ae87
 Storage Drawers				10.2.1
 Super Circuit Maker			0.2.9
 SuperMartijn642's Config Library	1.1.6
-SuperMartijn642's Core Lib		1.1.7 - 1.1.9a
-Supplementaries				1.18.2-1.5.16
+SuperMartijn642's Core Lib		1.1.9a - 1.1.10
+Supplementaries				1.18.2-1.5.17 - Non updated
 SwingThroughGrass			1.18.2-1.9.1
 Teams Stages				1.0.0
 Thermal Expansion			9.2.0.20
@@ -249,14 +249,14 @@ Toast Control				6.0.3
 Too Fast				0.0.1.2
 Torchmaster				18.1.0 - 18.2.0
 Towns and Towers			1.10.0.1
-Trash Cans				1.0.17a
+Trash Cans				1.0.17a - 1.0.18
 TrashSlot				11.0.3
 Unusual End				1.4.2 - 1.4.3
 ViciousCore				1.18.2-4.7.6
 VineCollector				1.2.3
 Visual Workbench			3.3.0
 Wooden Hopper				1.18.1-1.2.2.1
-Wormhole (Portals)			1.1.12
+Wormhole (Portals)			1.1.12 - 1.1.13
 XL Packets 				1.18.2-2.1
 XNet					1.18-4.0.9
 XNet Gases				3.0.1
