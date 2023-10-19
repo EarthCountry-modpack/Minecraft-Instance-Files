@@ -5,9 +5,9 @@
 	#Range: > 0
 	modpackProjectID = 0
 	#The name of the modpack
-	modpackName = "Diplo Pre-Alpha"
+	modpackName = "AetheriaP V2.4"
 	#The version of the modpack
-	modpackVersion = "Pre-Alpha 0.1"
+	modpackVersion = "0.0.23.06.27"
 	#Use the metadata.json to determine the modpack version
 	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
 	useMetadata = false
