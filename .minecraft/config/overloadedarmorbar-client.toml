@@ -5,5 +5,5 @@
 	#Always show armor bar even if empty?
 	"Always show bar" = true
 	#Show empty armor icons?
-	"Show empty icons" = false
+	"Show empty icons" = true
 

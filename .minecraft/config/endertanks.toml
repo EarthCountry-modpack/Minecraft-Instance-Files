@@ -79,7 +79,7 @@ enable_in_world_coloring = true
 	#While true only the owner can use the tank
 	personal_use_lock = false
 	#While true only a team member can use the tank
-	team_use_lock = true
+	team_use_lock = false
 
 #Mod integration can be disabled to solve compatibility issues, remove unwanted/unneeded features, etc.
 [integration]

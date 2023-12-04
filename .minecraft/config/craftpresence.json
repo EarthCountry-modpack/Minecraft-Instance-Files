@@ -1,14 +1,16 @@
 {
   "_README": "https://gitlab.com/CDAGaming/CraftPresence/-/wikis/home",
-  "_schemaVersion": 3,
-  "_lastMCVersionId": 758,
+  "_SOURCE": "https://gitlab.com/CDAGaming/CraftPresence",
+  "_schemaVersion": 6,
+  "_lastMCVersionId": 760,
   "generalSettings": {
     "detectATLauncherInstance": true,
     "detectCurseManifest": true,
     "detectMultiMCManifest": true,
     "detectMCUpdaterInstance": true,
     "detectTechnicPack": true,
-    "detectBiomeData": false,
+    "detectModrinthPack": true,
+    "detectBiomeData": true,
     "detectDimensionData": true,
     "detectWorldData": true,
     "clientId": "450485984333660181",
@@ -23,25 +25,7 @@
     "fallbackBiomeIcon": "unknown",
     "biomeData": {
       "default": {
-        "textOverride": "Playing in {biome.name}",
-        "data": {
-          "enabled": true,
-          "useAsMain": false,
-          "details": "",
-          "gameState": "",
-          "largeImageKey": "",
-          "largeImageText": "",
-          "smallImageKey": "",
-          "smallImageText": "",
-          "startTimestamp": "",
-          "endTimestamp": "",
-          "buttons": {
-            "default": {
-              "label": "Example Text",
-              "url": "https://google.com"
-            }
-          }
-        }
+        "textOverride": "Playing in {biome.name}"
       }
     }
   },
@@ -49,25 +33,7 @@
     "fallbackDimensionIcon": "unknown",
     "dimensionData": {
       "default": {
-        "textOverride": "In the {dimension.name}",
-        "data": {
-          "enabled": true,
-          "useAsMain": false,
-          "details": "",
-          "gameState": "",
-          "largeImageKey": "",
-          "largeImageText": "",
-          "smallImageKey": "",
-          "smallImageText": "",
-          "startTimestamp": "",
-          "endTimestamp": "",
-          "buttons": {
-            "default": {
-              "label": "Example Text",
-              "url": "https://google.com"
-            }
-          }
-        }
+        "textOverride": "In the {dimension.name}"
       }
     }
   },
@@ -77,149 +43,38 @@
     "fallbackServerMotd": "A Minecraft Server",
     "serverData": {
       "default": {
-        "textOverride": "Playing on {server.motd.raw}",
-        "data": {
-          "enabled": true,
-          "useAsMain": false,
-          "details": "",
-          "gameState": "",
-          "largeImageKey": "",
-          "largeImageText": "",
-          "smallImageKey": "",
-          "smallImageText": "",
-          "startTimestamp": "",
-          "endTimestamp": "",
-          "buttons": {
-            "default": {
-              "label": "Example Text",
-              "url": "https://google.com"
-            }
-          }
-        }
+        "textOverride": "Playing on {server.motd.raw}"
       }
     }
   },
   "statusMessages": {
     "mainMenuData": {
-      "textOverride": "In the Main Menu",
-      "data": {
-        "enabled": true,
-        "useAsMain": false,
-        "details": "",
-        "gameState": "",
-        "largeImageKey": "",
-        "largeImageText": "",
-        "smallImageKey": "",
-        "smallImageText": "",
-        "startTimestamp": "",
-        "endTimestamp": "",
-        "buttons": {
-          "default": {
-            "label": "Example Text",
-            "url": "https://google.com"
-          }
-        }
-      }
+      "textOverride": "In the Main Menu"
     },
     "loadingData": {
-      "textOverride": "Loading...",
-      "data": {
-        "enabled": true,
-        "useAsMain": false,
-        "details": "",
-        "gameState": "",
-        "largeImageKey": "",
-        "largeImageText": "",
-        "smallImageKey": "",
-        "smallImageText": "",
-        "startTimestamp": "",
-        "endTimestamp": "",
-        "buttons": {
-          "default": {
-            "label": "Example Text",
-            "url": "https://google.com"
-          }
-        }
-      }
+      "textOverride": "Loading..."
     },
     "lanData": {
-      "textOverride": "Playing on a LAN Server",
-      "data": {
-        "enabled": true,
-        "useAsMain": false,
-        "details": "",
-        "gameState": "",
-        "largeImageKey": "",
-        "largeImageText": "",
-        "smallImageKey": "",
-        "smallImageText": "",
-        "startTimestamp": "",
-        "endTimestamp": "",
-        "buttons": {
-          "default": {
-            "label": "Example Text",
-            "url": "https://google.com"
-          }
-        }
-      }
+      "textOverride": "Playing on a LAN Server"
     },
     "singleplayerData": {
-      "textOverride": "Playing Singleplayer",
-      "data": {
-        "enabled": true,
-        "useAsMain": false,
-        "details": "",
-        "gameState": "",
-        "largeImageKey": "",
-        "largeImageText": "",
-        "smallImageKey": "",
-        "smallImageText": "",
-        "startTimestamp": "",
-        "endTimestamp": "",
-        "buttons": {
-          "default": {
-            "label": "Example Text",
-            "url": "https://google.com"
-          }
-        }
-      }
+      "textOverride": "Playing Singleplayer"
     }
   },
   "advancedSettings": {
     "enablePerGui": false,
     "enablePerItem": false,
     "enablePerEntity": false,
-    "renderTooltips": true,
     "formatWords": true,
     "debugMode": false,
     "verboseMode": false,
     "refreshRate": 2,
-    "roundSize": 3,
-    "includeExtraGuiClasses": false,
     "allowPlaceholderPreviews": false,
     "guiSettings": {
       "fallbackGuiIcon": "unknown",
       "guiData": {
         "default": {
-          "textOverride": "In {screen.name}",
-          "data": {
-            "enabled": true,
-            "useAsMain": false,
-            "details": "",
-            "gameState": "",
-            "largeImageKey": "",
-            "largeImageText": "",
-            "smallImageKey": "",
-            "smallImageText": "",
-            "startTimestamp": "",
-            "endTimestamp": "",
-            "buttons": {
-              "default": {
-                "label": "Example Text",
-                "url": "https://google.com"
-              }
-            }
-          }
+          "textOverride": "In {screen.name}"
         }
       }
     },
@@ -230,77 +85,83 @@
       "fallbackEntityIcon": "unknown",
       "targetData": {
         "default": {
-          "textOverride": "Targeting {entity.target.name}",
-          "data": {
-            "enabled": true,
-            "useAsMain": false,
-            "details": "",
-            "gameState": "",
-            "largeImageKey": "",
-            "largeImageText": "",
-            "smallImageKey": "",
-            "smallImageText": "",
-            "startTimestamp": "",
-            "endTimestamp": "",
-            "buttons": {
-              "default": {
-                "label": "Example Text",
-                "url": "https://google.com"
-              }
-            }
-          }
+          "textOverride": "Targeting {entity.target.name}"
         }
       },
       "ridingData": {
         "default": {
-          "textOverride": "Riding {entity.riding.name}",
-          "data": {
-            "enabled": true,
-            "useAsMain": false,
-            "details": "",
-            "gameState": "",
-            "largeImageKey": "",
-            "largeImageText": "",
-            "smallImageKey": "",
-            "smallImageText": "",
-            "startTimestamp": "",
-            "endTimestamp": "",
-            "buttons": {
-              "default": {
-                "label": "Example Text",
-                "url": "https://google.com"
-              }
-            }
-          }
+          "textOverride": "Riding {entity.riding.name}"
         }
       }
     },
     "allowEndpointIcons": true,
     "serverIconEndpoint": "https://api.mcsrvstat.us/icon/{server.address.short}",
-    "playerSkinEndpoint": "https://crafatar.com/avatars/%1$s"
+    "playerSkinEndpoint": "https://mc-heads.net/avatar/{getOrDefault(player.uuid.short, player.name)}",
+    "allowDuplicatePackets": false,
+    "maxConnectionAttempts": 10
   },
   "accessibilitySettings": {
-    "tooltipBackgroundColor": "0xF0100010",
-    "tooltipBorderColor": "0x505000FF",
-    "guiBackgroundColor": "minecraft:textures/gui/options_background.png",
-    "buttonBackgroundColor": "minecraft:textures/gui/widgets.png",
+    "tooltipBackground": {
+      "start": {
+        "red": 16,
+        "green": 0,
+        "blue": 16,
+        "alpha": 240
+      }
+    },
+    "tooltipBorder": {
+      "start": {
+        "red": 80,
+        "green": 0,
+        "blue": 255,
+        "alpha": 80
+      },
+      "end": {
+        "red": 40,
+        "green": 0,
+        "blue": 127,
+        "alpha": 80
+      }
+    },
+    "guiBackground": {
+      "start": {
+        "red": 64,
+        "green": 64,
+        "blue": 64,
+        "alpha": 255
+      },
+      "texLocation": "minecraft:textures/gui/options_background.png"
+    },
+    "worldGuiBackground": {
+      "start": {
+        "red": 16,
+        "green": 16,
+        "blue": 16,
+        "alpha": 192
+      },
+      "end": {
+        "red": 16,
+        "green": 16,
+        "blue": 16,
+        "alpha": 208
+      }
+    },
     "languageId": "en_us",
-    "showBackgroundAsDark": true,
     "stripTranslationColors": false,
-    "showLoggingInChat": false,
     "stripExtraGuiElements": false,
-    "configKeyCode": 332
+    "renderTooltips": true,
+    "configKeyCode": 73
   },
   "displaySettings": {
     "presenceData": {
       "enabled": true,
       "useAsMain": false,
-      "details": "{getOrDefault(menu.message, dimension.message)}",
-      "gameState": "{server.message} {custom.pack}",
-      "largeImageKey": "{getOrDefault(menu.icon, dimension.icon)}",
-      "largeImageText": "{getOrDefault(menu.message, dimension.message)}",
-      "smallImageKey": "{getOrDefault(server.icon, pack.icon)}",
-      "smallImageText": "{server.message} {custom.pack}",
+      "details": "{getFirst(menu.message, dimension.message)}",
+      "gameState": "{getOrDefault(server.message)} {getOrDefault(pack.name)}",
+      "largeImageKey": "{getFirst(menu.icon, dimension.icon)}",
+      "largeImageText": "{getFirst(menu.message, dimension.message)}",
+      "smallImageKey": "{getFirst(server.icon, pack.icon)}",
+      "smallImageText": "{getOrDefault(server.message)} {getOrDefault(pack.name)}",
       "startTimestamp": "{data.general.time}",
       "endTimestamp": "",
       "buttons": {
@@ -312,15 +173,14 @@
     },
     "dynamicIcons": {
       "default": "https://via.placeholder.com/256.png",
-      "Alien_25": "https://crafatar.com/avatars/5b01c13fbf9249e3b05aaf17db443407",
-      "ec.8e-couche.xyz": "https://api.mcsrvstat.us/icon/ec.8e-couche.xyz"
+      "Alien_25": "https://mc-heads.net/avatar/5b01c13fbf9249e3b05aaf17db443407"
     },
     "dynamicVariables": {
       "default": "Example Text",
       "mods": "{general.mods} Mod(s)",
       "player_info_coordinate": "At {player.position.x}, {player.position.z}",
       "players": "{server.players.current} / {server.players.max} Players",
-      "player_info_in": "({custom.player_info_health})",
+      "player_info_in": "({custom.player_info.health})",
       "player_info_items": "Items: {item.main_hand.message}",
       "player_info_out": "As {player.name}",
       "player_info_health": "Health: {player.health.current}/{player.health.max}",

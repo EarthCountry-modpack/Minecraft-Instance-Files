@@ -5,8 +5,9 @@
 	#Modify Create's impact on your terrain
 	[worldgen.v2]
 		#.
+		#.
 		#Prevents all worldgen added by Create from taking effect
-		disableWorldGen = true
+		disableWorldGen = false
 
 		[worldgen.v2.striated_ores_nether]
 			#.
@@ -18,7 +19,7 @@
 			#  <1 to make it a chance.
 			#  0 to disable.
 			#Range: 0.0 ~ 512.0
-			frequency = 0.0833333358168602
+			frequency = 0.0555555559694767
 			#.
 			#Range: > -2147483648
 			minHeight = 40
@@ -36,7 +37,7 @@
 			#  <1 to make it a chance.
 			#  0 to disable.
 			#Range: 0.0 ~ 512.0
-			frequency = 0.0833333358168602
+			frequency = 0.0555555559694767
 			#.
 			#Range: > -2147483648
 			minHeight = -30

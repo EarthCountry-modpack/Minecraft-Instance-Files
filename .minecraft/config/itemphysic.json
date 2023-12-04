@@ -1,6 +1,5 @@
 {
   "general": {
-    "despawnItem": 6000,
     "customThrow": true,
     "fallSounds": true,
     "swimmingItems": {
