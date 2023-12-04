@@ -15,6 +15,15 @@
 	#There can be one color in case vanilla frozen heart is wanted
 	healthFrozenColors = ["#3E70E6"]
 
+	[health.gui]
+		#A point coordinates should be relative to.
+		#The fastest way to set these values is to use the in-game config GUI in mods list.
+		#NOTE: moving towards left or top from a point always requires negative coordinates!
+		#Allowed Values: TOP_LEFT, TOP_MIDDLE, TOP_RIGHT, MIDDLE_LEFT, MIDDLE, MIDDLE_RIGHT, BOTTOM_LEFT, BOTTOM_MIDDLE, BOTTOM_RIGHT
+		healthRelativeTo = "BOTTOM_MIDDLE"
+		healthPosX = -91
+		healthPosY = -39
+
 [absorption]
 	#Show vanilla hearts
 	absorptionVanilla = true
@@ -28,10 +37,19 @@
 	#Two alternating colors when freezing
 	absorptionFrozenColors = ["#90D136", "#36D183"]
 
+	[absorption.gui]
+		#A point coordinates should be relative to.
+		#The fastest way to set these values is to use the in-game config GUI in mods list.
+		#NOTE: moving towards left or top from a point always requires negative coordinates!
+		#Allowed Values: TOP_LEFT, TOP_MIDDLE, TOP_RIGHT, MIDDLE_LEFT, MIDDLE, MIDDLE_RIGHT, BOTTOM_LEFT, BOTTOM_MIDDLE, BOTTOM_RIGHT
+		absorptionRelativeTo = "BOTTOM_MIDDLE"
+		absorptionPosX = -91
+		absorptionPosY = -49
+
 [qol]
 	#Display absorption in the same row as health
 	#Absorption hearts start directly after the last health heart.
-	absorptionOverHealth = false
+	absorptionOverHealth = true
 
 	[qol.counter]
 		#Visualizes health/absorption to left of the hearts.

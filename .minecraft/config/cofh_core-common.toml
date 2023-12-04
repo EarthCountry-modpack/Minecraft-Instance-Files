@@ -5,10 +5,10 @@
 
 	[Gameplay.Fishing]
 		#If TRUE, Fishing will cause exhaustion.
-		"Fishing Exhaustion" = false
+		"Fishing Exhaustion" = true
 		#This option sets the amount of exhaustion caused by fishing, if enabled.
 		#Range: 0.0 ~ 10.0
-		"Fishing Exhaustion Amount" = 0.125
+		"Fishing Exhaustion Amount" = 0.1
 
 	[Gameplay.World]
 		#If TRUE, Sapling growth will be slowed by a configurable factor.

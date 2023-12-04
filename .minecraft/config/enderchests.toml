@@ -29,7 +29,7 @@ enable_in_world_coloring = true
 
 [access_settings]
 	#When enabled these bags access a players vanilla EnderChest, if disabled they will only be a crafting ingredient
-	ender_pouch = false
+	ender_pouch = true
 	#Enables the usage of public chests, if disabled chests must be upgraded before use
 	public_chests = true
 	#Enables the creation of personal chests, if disabled chests can not set personal.
@@ -63,5 +63,5 @@ enable_in_world_coloring = true
 	#While true only the owner can use the chest
 	personal_use_lock = false
 	#While true only a team member can use the chest
-	team_use_lock = true
+	team_use_lock = false
 

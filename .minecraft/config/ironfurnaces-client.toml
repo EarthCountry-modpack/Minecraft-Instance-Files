@@ -208,14 +208,14 @@
 		speed = 140
 
 	[furnaces.rainbow_furnace]
-		# How much RF to generate per tick
-		# Default: 1000
-		#Range: 1 ~ 100000
-		generation = 1000
 		# How much power the Rainbow Furnace will generate.
 		# Default: 50000
 		#Range: 1 ~ 100000000
 		rainbow_generation = 50000
+		# How much RF to generate per tick
+		# Default: 1000
+		#Range: 1 ~ 100000
+		generation = 1000
 		# How many furnaces that need to be linked in order for the Rainbow Furnace to generate power.
 		# Default: 9
 		#Range: 1 ~ 100
@@ -230,15 +230,15 @@
 		# How much energy can be stored in tier 0 furnaces.
 		# Default: 80 000
 		#Range: > 4000
-		tier_0 = 40000
+		tier_0 = 80000
 		# How much energy can be stored in tier 2 furnaces.
 		# Default: 1 000 000
 		#Range: > 4000
-		tier_2 = 160000
+		tier_2 = 1000000
 		# How much energy can be stored in tier 1 furnaces.
 		# Default: 200 000
 		#Range: > 4000
-		tier_1 = 80000
+		tier_1 = 200000
 
 	[furnaces.gold_furnace]
 		# How much RF to generate per tick
@@ -271,11 +271,11 @@
 
 	[misc.misc]
 		# Enable or disable the Rainbow Content
-		rainbow = true
+		rainbow = false
 		# Enable or disable light-updates, furances will no longer emit light, true = disable
 		lightupdates = false
 		# Enable or disable version checking and player identification through the web, true = disabled, if your server is using firewall software you might want to disable this
-		web = true
+		web = false
 		# Show furnace settings errors in chat, used for debugging
 		errors = false
 
