@@ -1,0 +1,21 @@
+{
+	id: "592DDAF06D81A2B7"
+	group: "204CE562A41ED91C"
+	order_index: 1
+	filename: "res_primaire"
+	title: "Ères Primaire"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	hide_quest_details_until_startable: true
+	quests: [{
+		x: 0.0d
+		y: 0.0d
+		id: "55D4D0ABD16794D8"
+		tasks: [{
+			id: "3016A742A709D2A1"
+			type: "item"
+			item: "minecraft:calcite"
+		}]
+	}]
+	quest_links: [ ]
+}
