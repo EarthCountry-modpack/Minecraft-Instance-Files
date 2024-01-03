@@ -55,7 +55,7 @@ Cobble For Days 			1.6.0
 CoFH Core				10.3.1
 Collective				7.9
 Compact Crafting			3.1.0
-Compact Machines 4			5.1.0
+Compact Machines 5			5.1.0
 Configured				2.1.1
 Connectivity Mod			1.19.2-4.6
 Construction Wand			1.19.2-2.10
