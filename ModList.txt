@@ -78,7 +78,7 @@ Cupboard utilities			1.19.2-2.1
 Curios API				1.19.2-5.1.4.4  -  1.19.2-5.1.4.3
 Custom Machinery			0.9.8
 Custom Machinery Create			1.1.0
-Custom Machinery Mekanism		1.3.0
+Custom Machinery Mekanism		1.3.1  -  1.3.0
 Cyclops Core				1.18.11
 DarkModeEverywhere			1.19.2-1.1.4
 Debugify				2.8.0
