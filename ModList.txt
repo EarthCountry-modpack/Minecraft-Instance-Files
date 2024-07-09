@@ -90,6 +90,9 @@ Easy Shulker Boxes			4.4.1
 Eccentric Tome				1.10.2
 OpenBlock Elevator Mod			1.8.10
 Elytra Slot				6.1.2 - 6.1.1
+Embeddium				0.3.18
+Embeddium Extra				0.4.19
+Embeddium Dynamic Lights		1.4.0
 EnchantmentDescription			13.0.20  -  13.0.18
 EnderChests				1.10.8
 EnderTanks				1.12.10 - 1.12.9
@@ -223,7 +226,6 @@ Recipe Stages				4.0.0.7
 Restricted Portals			1.3.0
 RFToolsBase				4.1.9 - 4.1.7
 Rhino					1902.2.3-build.284  -  1902.2.2-build.280
-Rubidium				0.6.2c
 Sebastrn Lib				2.0.2
 Server Statistics			1.1.8
 ShetiPhian-Core				3.11.11
@@ -244,6 +246,7 @@ SuperMartijn642's Core Lib		1.1.17  -  1.1.16
 Supplementaries				2.4.20  -  2.4.15
 SwingThroughGrass			1.10.0
 Teams Stages				1.0.0
+TexTrue's Embeddium Options		0.1.1
 Thermal Expansion			10.3.1
 Thermal Foundation			10.3.1
 Thermal Integration			10.3.0
