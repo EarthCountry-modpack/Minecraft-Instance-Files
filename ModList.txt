@@ -109,6 +109,7 @@ FastFurnace				7.0.0
 FastLeafDecay				30
 Fastload				3.4.0
 Ferrite Core				5.0.3
+fix GPU memory leak			1.6
 Flopper					1.1.5  -  1.1.4
 Framed Compacting Drawers		5.2.1
 FTB Chunks				1902.4.6-build.360  -  1902.4.4-build.326
@@ -188,6 +189,7 @@ Mekanismbridge				3.1 - 2.2
 Metal Barrel				5.0.2 - 5.0.1
 Mob Grinding Utils			0.4.52 - 0.4.50
 Mod Name Tooltip			1.20.0
+ModernFix				5.18.0
 Moonlight Library			2.3.6  -  2.3.5
 MoreJS					0.3.0 - 0.2.1
 Mouse Tweaks				2.23
@@ -215,6 +217,7 @@ Patchouli				77
 Pipez					1.2.15  -  1.2.6
 Placebo					7.4.0 - 7.3.4
 PolyLib					0.3.114 - 1900.0.3-build.100
+Polymorph				0.46.6
 Portable Mobs				1.2.0
 Potion ID Packet Fixer			1-v1.0.1
 Puzzles Lib				4.4.3
@@ -231,7 +234,6 @@ Server Statistics			1.1.8
 ShetiPhian-Core				3.11.11
 Showcase Item				1.1
 ShulkerBoxTooltip			3.2.2+1.19.2
-Shutup Experimentals Settings!		1.0.5
 Simple Inventory Sorter			22.0.0
 Simple Magnets				1.1.11 - 1.1.10
 Smaller Nether Portals			3.6  -  3.5
@@ -244,8 +246,10 @@ Storage Drawers				11.1.2
 SuperMartijn642's Config Library	1.1.8
 SuperMartijn642's Core Lib		1.1.17  -  1.1.16
 Supplementaries				2.4.20  -  2.4.15
+Supplementaries Squared			1.1.1
 SwingThroughGrass			1.10.0
 Teams Stages				1.0.0
+Terralith				2.3.12
 TexTrue's Embeddium Options		0.1.1
 Thermal Expansion			10.3.1
 Thermal Foundation			10.3.1
@@ -267,6 +271,7 @@ Wormhole (Portals)			1.1.16 - 1.1.15
 XL Packets 				1.18.2-2.1
 XNet					5.2.4 - 5.1.4
 XNet Gases				4.1.4 - 4.0.1
+Yeetus Experimentus			1.0.1-build.2
 YUNG Structures Addon for Loot Integrations	1.1
 YUNG's API				Forge-3.8.10
 YUNG's Better Desert Temples		Forge-2.2.2
