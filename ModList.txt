@@ -210,7 +210,7 @@ No Telemetry				1.8.0  -  1.7.0
 Not Enough Crashes			5.0.0+1.19.2  -  4.2.1+1.19.2
 Notes					1.2.5
 Oculus					1.6.9
-Oculus Flywheel Compat			1.0.2 - 0.2.1
+Oculus Flywheel Compat			1.0.3 - 1.0.2
 Oculus Particle Fix			1.0
 OpenLoader				15.0.2
 Overloaded Armor Bar			7.2
@@ -245,7 +245,7 @@ Sophisticated Backpacks			3.20.2.1035  -  3.19.5.989
 Sophisticated Core			0.6.4.605  -  0.5.111.525
 Stack Refill				4.4  -  4.2
 Starlight				1.1.1+forge.a3aea74
-Storage Drawers				11.1.2
+Storage Drawers				11.4.0 - 11.1.2
 SuperMartijn642's Config Library	1.1.8
 SuperMartijn642's Core Lib		1.1.17  -  1.1.16
 Supplementaries				2.4.20  -  2.4.15
